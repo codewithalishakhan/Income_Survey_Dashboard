@@ -15,4 +15,9 @@ This repository contains my work in Microsoft Excel.
 
 
 # <img src ="https://cdn.dribbble.com/users/760295/screenshots/4694091/db_1_8x6.gif" width= 90> **Requirements** 
-Basic Knowledge of Pivot Tables,Basic ,Charts, and formatting in Excel
+Basic Knowledge of Pivot Tables,Basic,Charts, and formatting in Excel.
+
+<h2>Conclusion:</h2>
+Excel for the Income Survey and Dashboard offers a practical and efficient way to collect, analyze, and present income-related data. With its features for data visualization, analysis, and interactivity, Excel can help researchers and decision-makers gain valuable insights from the survey data.
+
+
