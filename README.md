@@ -12,3 +12,7 @@ This repository contains my work in Microsoft Excel.
 <b>Dashboard Creation:</b> The dashboard is a visual representation of the survey data, presenting key metrics and trends in a clear and concise manner.
 
 <b>Data Visualization:</b> Excel's charting and graphing capabilities are utilized to create various visualizations such as bar charts, pie charts, line graphs, and histograms. These visuals help in presenting the income distribution, average income, income categories, and other relevant insights.
+
+
+# <img src ="https://cdn.dribbble.com/users/760295/screenshots/4694091/db_1_8x6.gif" width= 90> **Requirements** 
+Basic Knowledge of Pivot Tables,Basic ,Charts, and formatting in Excel
