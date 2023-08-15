@@ -21,8 +21,7 @@ Basic Knowledge of Pivot Tables, Basic, Charts, and formatting in Excel.
 
 # <img src="https://media2.giphy.com/media/YjQk70gmQLDmJTawn0/giphy.gif?cid=6c09b952xaer02w992bk0htawwbmvmqir5fyf338xab2n9jp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">**Screenshot**
 
-<img src=https://github.com/codewithalishakhan/Income_Survey_Dashboard/assets/109518128/ab37775f-d86b-40bb-8987-abd83429a8ba  height=400>
-
+<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/2c99b87d-0d17-4057-8f7c-d02c9fe7fe54" height=400>
 
 
 <h2>Conclusion:</h2>
